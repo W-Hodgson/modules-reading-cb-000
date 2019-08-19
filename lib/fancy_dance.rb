@@ -3,4 +3,6 @@ module FancyDance
 
   end
 
+  module
+
 end

@@ -3,6 +3,8 @@ module FancyDance
 
   end
 
-  module
+  module ClassMethods
+
+  end
 
 end
